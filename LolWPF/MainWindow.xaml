@@ -8,7 +8,7 @@
         Title="LOL hősök" Height="450" Width="800">
     <Grid>
         <DataGrid x:Name="Dg_Adatok" Margin="0,80,0,0"/>
-        <ComboBox x:Name="Cbx_Szuro" HorizontalAlignment="Left" Margin="193,34,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Cbx_Szuro" HorizontalAlignment="Left" Margin="193,34,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Cbx_Szuro_SelectionChanged"/>
         <Button x:Name="Btn_Reset" Content="Reset" HorizontalAlignment="Left" Margin="360,34,0,0" VerticalAlignment="Top" Click="Btn_Reset_Click"/>
         <Button x:Name="Btn_Mentes" Content="Mentés" HorizontalAlignment="Left" Margin="449,34,0,0" VerticalAlignment="Top" Click="Btn_Mentes_Click"/>
 

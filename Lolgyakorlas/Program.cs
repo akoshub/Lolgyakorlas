@@ -48,6 +48,82 @@ namespace Lolgyakorlas
                 }
             }
             Console.WriteLine($"5.szinten a legkisebb sebzéssel rendelkező hős {hosok[min].Name}; Sebzés={hosok[min].ADLevel(5)}");
+            Console.WriteLine("A játékban szereplő kategóriák:");
+            List<string> kategoriak = new List<string>();
+            foreach (var kategoria in hosok)
+            {
+                if (!kategoriak.Contains(kategoria.Category))
+                { 
+                    kategoriak.Add(kategoria.Category);
+                }
+            }
+            for (int k = 0; k < kategoriak.Count; k++)
+            {
+                Console.WriteLine(kategoriak[k]);
+            }
+            int harcosAssassin = 0;
+            foreach (var hos in hosok)
+            {
+                if (hos.Category == "Fighter" || hos.Category == "Assassin")
+                {
+                    harcosAssassin++;
+                }
+            }
+            Console.WriteLine($"Összesen {harcosAssassin} harcos és assassin champion van a játékban");
+            double osszharcosdamage = 0;
+            foreach (var harcos in hosok)
+            {
+                if (harcos.Category == "Fighter")
+                {
+                    osszharcosdamage += harcos.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Harcos kategória össz damage: {osszharcosdamage}");
+            double osszmagusdamage = 0;
+            foreach (var magus in hosok)
+            {
+                if (magus.Category == "Mage")
+                {
+                    osszmagusdamage += magus.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Mágus kategória össz damage: {osszmagusdamage}");
+            double osszassassindamage = 0;
+            foreach (var assassin in hosok)
+            {
+                if (assassin.Category == "Assassin")
+                {
+                    osszassassindamage += assassin.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Assassin kategória össz damage: {osszassassindamage}");
+            double ossztankdamage = 0;
+            foreach (var tank in hosok)
+            {
+                if (tank.Category == "Tank")
+                {
+                    ossztankdamage += tank.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Tank kategória össz damage: {ossztankdamage}");
+            double osszmarksmandamage = 0;
+            foreach (var marksman in hosok)
+            {
+                if (marksman.Category == "Marksman")
+                {
+                    osszmarksmandamage += marksman.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Marksman kategória össz damage: {osszmarksmandamage}");
+            double osszsupportdamage = 0;
+            foreach (var support in hosok)
+            {
+                if (support.Category == "Support")
+                {
+                    osszsupportdamage += support.Attackdamage;
+                }
+            }
+            Console.WriteLine($"Support kategória össz damage: {osszsupportdamage}");
             Console.ReadKey();
         }
     }

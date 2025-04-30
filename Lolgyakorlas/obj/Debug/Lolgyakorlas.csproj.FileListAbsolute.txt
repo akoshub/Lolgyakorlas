@@ -1,0 +1,7 @@
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\obj\Debug\Lolgyakorlas.csproj.AssemblyReference.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\obj\Debug\Lolgyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\bin\Debug\Lolgyakorlas.exe.config
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\bin\Debug\Lolgyakorlas.exe
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\bin\Debug\Lolgyakorlas.pdb
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\obj\Debug\Lolgyakorlas.exe
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\Lolgyakorlas\obj\Debug\Lolgyakorlas.pdb

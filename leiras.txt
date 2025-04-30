@@ -1,0 +1,4 @@
+számold össze az összes harcost és assassint.
+Add össze az összes attack damaget kategória alapján.
+Keresés
+Egy listába gyüjtsd össze az összes kategóriát, de csak egyszer szerepeljenek.

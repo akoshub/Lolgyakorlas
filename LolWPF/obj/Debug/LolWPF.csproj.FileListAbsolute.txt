@@ -1,0 +1,15 @@
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\bin\Debug\LolWPF.exe.config
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\bin\Debug\LolWPF.exe
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\bin\Debug\LolWPF.pdb
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.csproj.AssemblyReference.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\App.g.cs
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF_MarkupCompile.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF_MarkupCompile.lref
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\MainWindow.baml
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.g.resources
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.Properties.Resources.resources
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.csproj.GenerateResource.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.csproj.CoreCompileInputs.cache
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.exe
+C:\Users\Akos Chan\source\repos\Lolgyakorlas-main\LolWPF\obj\Debug\LolWPF.pdb
